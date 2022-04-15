@@ -1,7 +1,7 @@
 class Ape < Formula
   desc "Ape generates weekly repeating items from templates"
   homepage "https://github.com/qultist/ape"
-  url "https://github.com/qultist/ape.git", tag: "0.1.0", revision: "8e84ed4d98685dfd41abce723cdeafda44a67e4e"
+  url "https://github.com/qultist/ape.git", tag: "0.1.1", revision: "373410ff9776141215d14ad0b63e4fdf6ba1a4a0"
   license "MIT"
 
   depends_on xcode: ["13.3", :build]
